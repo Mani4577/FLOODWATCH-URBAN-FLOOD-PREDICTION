@@ -1,0 +1,26 @@
+# Large raw/processed data (11 GB — too big for GitHub)
+datasets/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+build/
+
+# Runtime caches / uploads
+cache/
+flood-ai-system/backend/cache/
+flood-ai-system/backend/uploads/
+
+# Env / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

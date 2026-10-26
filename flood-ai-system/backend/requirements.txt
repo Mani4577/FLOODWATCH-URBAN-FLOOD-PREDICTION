@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+geopandas
+shap
+scikit-learn
+xgboost
+joblib
+requests
+geopy
